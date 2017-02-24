@@ -1,0 +1,16 @@
+Package: TAR
+Type: Package
+Title: Bayesian Modeling of Autoregressive Threshold Time Series Models
+Version: 1.0
+Date: 2017-02-19
+Author: Hanwen Zhang, Fabio H. Nieto
+Maintainer: Hanwen Zhang <hanwengutierrez@gmail.com>
+Description: Identification and estimation of the autoregressive threshold models with Gaussian noise, as well as positive-valued time series. The package provides the identification of the number of regimes, the thresholds and the autoregressive orders, as well as the estimation of remain parameters. The package implements the methodology from the 2005 paper: Modeling Bivariate Threshold Autoregressive Processes in the Presence of Missing Data <DOI:10.1081/STA-200054435>.
+Encoding: UTF-8
+License: GPL (>= 2)
+Depends: mvtnorm
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2017-02-24 02:41:45 UTC; hanwenzhang
+Repository: CRAN
+Date/Publication: 2017-02-24 08:31:45
